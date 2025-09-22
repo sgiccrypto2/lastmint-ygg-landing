@@ -81,7 +81,7 @@ export default function Page() {
       {/* Prize */}
       <Section id="prize" title="Prize & Payouts">
         <p>
-          <span className="text-teal-300 font-semibold">$500 USDC</span> to the top guild on the leaderboard at competition end. Reward will be paid directly to the guild wallet submitted in the registration form. Prize distribution handled by LastMint.
+          <span className="text-teal-300 font-semibold">$500 USDC</span> to the top guild on the leaderboard at competition end. Reward will be paid directly to the guild wallet submitted in the registration form. Prize distribution handled by LastMint. Additionally, all members of the winning guild will receive 100 XP each!
         </p>
         <p className="mt-3 text-slate-400 text-sm">
           Eligibility: Guild leaders must complete the registration form before <span className="text-slate-200">Sep 19 @ 11:59PM UTC</span> to appear on the leaderboard.
